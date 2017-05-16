@@ -1,0 +1,31 @@
+body{
+  background: url('http://www.walldevil.com/wallpapers/a82/pink-wallpapers-wallpaper-background-backgrounds-black-desktop-photo-wallike-pretty-color.jpg');
+}
+
+#sri{
+  color:#ff1493;
+}
+
+
+.burow{
+  text-align: center;
+}
+.button {
+    position: absolute;
+    top: 50%;
+}
+.imcen{
+    text-align: center;
+   
+}
+
+}
+.imri{
+  text-align: right;
+}
+.ccontact{
+  text-align: center;
+}
+.text-center {
+    font-size: 50px;
+}
