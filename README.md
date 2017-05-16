@@ -1,4 +1,4 @@
 # srithpink
-this is my first project for freecodecamp. 
-Its a tribute page to J.K.Rowling
-i used html and css for this project
+This is a repository for all my FreeCodeCamp projects.
+I'll be storing all my fcc projects with project name in shortform followed by whether its html.
+There will be only one readme.
